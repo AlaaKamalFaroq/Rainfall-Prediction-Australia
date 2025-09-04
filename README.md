@@ -33,10 +33,10 @@ By applying **data cleaning, exploratory analysis, and visualization techniques*
 
 ## 📷 Sample Visualizations
 ### Average Rainfall per Season
-![Seasonal Rainfall](images/seasonal_rainfall.png)
+![Seasonal Rainfall](c3.png)
 
 ### Rainfall Heatmap (Cities × Seasons)
-![Rainfall Heatmap](images/rainfall_heatmap.png)
+![Rainfall Heatmap](c2.png)
 
 ## 📂 Project Structure
 ---├── notebook.ipynb # Full Jupyter Notebook (analysis & visualizations)
